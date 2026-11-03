@@ -1,0 +1,1 @@
+"""Smart Demand Forecasting application package."""
